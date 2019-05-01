@@ -1,0 +1,12 @@
+.home{
+    background-color: #cdd3e8;
+    padding: 10px 5px 18px 5px;
+    border-radius: 6px;
+}
+html, body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 100%;
+    overflow-x: hidden;
+    /*background: url(../Admin/images/bg.jpg) no-repeat 0px 0px;*/
+    background-size:cover;
+}
